@@ -21,7 +21,4 @@ public class GuestController {
         return "hotel-guests";
     }
 
-    // commit 1
-    // commit 2
-    // commit 3
 }
