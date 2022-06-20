@@ -20,4 +20,6 @@ public class GuestController {
         model.addAttribute("guests", reservationService.getHotelGuests());
         return "hotel-guests";
     }
+
+    // commit 1
 }
