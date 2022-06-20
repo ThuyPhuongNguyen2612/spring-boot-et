@@ -21,4 +21,5 @@ public class GuestController {
         return "hotel-guests";
     }
 
+    // test commit 1 -> master
 }
